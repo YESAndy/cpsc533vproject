@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Our Project
 
 You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will showcase results from our experiments. The following 
 
 ### Markdown
 
