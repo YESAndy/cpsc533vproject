@@ -1,15 +1,30 @@
 ## Welcome to Our Project
 
-You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.https://jekyllrb.com/docs/usage/
 
-This page will showcase results from our experiments. The following 
+This page will showcase results from our experiments.
 
-### Markdown
+### Overview of the experiments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our experiments considered 3 factors that may affect the performance of the robot arm, namely RL algorithm, RNN memory enhancement, and state design. There are 8 different combinations of these factors so as the number of the experiment. The follow table showed the average reward of each of these models. 
+
+**Average Reward for all the experiments**
+
+| Experiment | 1.PPO+S1+RNN |  2.PPO+S2+RNN   | 3.PPO+S1+NO-RNN | 4.PPO+S2+NO-RNN  | 5.SAC+S1+RNN | 6.SAC+S2+RNN  | 7.SAC+S1+NO-RNN | 8.SAC+S2+NO-RNN      | NOTE|
+| ----------- | ----------- | ----------- | ----------- |  ----------- | ----------- |  ----------- | ----------- |  ----------- | ----------- | 
+| Average Reward |      |         |       |       |     |       |      |       |     |
+| Std. of Reward   |         |       |  |       |  |       |  |       |  |
+
+### Graphs
+time step vs average reward for each experiment.
+
+
+### Videos
+
 
 ```markdown
 Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
