@@ -10,10 +10,15 @@ Our experiments considered 3 factors that may affect the performance of the robo
 
 **Average Reward for all the experiments**
 
-| Experiment | 1.PPO+S1+RNN |  2.PPO+S2+RNN   | 3.PPO+S1+NO-RNN | 4.PPO+S2+NO-RNN  | 5.SAC+S1+RNN | 6.SAC+S2+RNN  | 7.SAC+S1+NO-RNN | 8.SAC+S2+NO-RNN      | NOTE|
-| ----------- | ----------- | ----------- | ----------- |  ----------- | ----------- |  ----------- | ----------- |  ----------- | ----------- | 
-| Average Reward |      |         |       |       |     |       |      |       |     |
-| Std. of Reward   |         |       |  |       |  |       |  |       |  |
+| Experiment | 1.PPO+S1+RNN |  2.PPO+S2+RNN   | 3.PPO+S1+NO-RNN | 4.PPO+S2+NO-RNN  | 
+| ----------- | ----------- | ----------- | ----------- |  ----------- |
+| Average Reward |      |         |       |     |       
+| Std. of Reward |         |       |     |       |  
+
+| Experiment |5.SAC+S1+RNN | 6.SAC+S2+RNN  | 7.SAC+S1+NO-RNN | 8.SAC+S2+NO-RNN      | NOTE|
+| ----------- |  ----------- | ----------- |  ----------- | ----------- | ----------- | 
+| Average Reward |      |         |       |           |        |
+| Std. of Reward |         |       |       |         |         |
 
 ### Graphs
 time step vs average reward for each experiment.
