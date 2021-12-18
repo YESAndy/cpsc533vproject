@@ -26,6 +26,7 @@ time step vs average reward for each experiment.
 
 
 ### Videos
+![](https://github.com/YESAndy/cpsc533vproject/blob/main/ppo_nr_e0.05_s2.gif)
 <img src="https://github.com/YESAndy/cpsc533vproject/blob/main/ppo_nr_e0.05_s2.gif" width="600" height="400" />
 
 ```markdown
