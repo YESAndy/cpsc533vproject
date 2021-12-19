@@ -4,24 +4,24 @@ You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/ed
 
 This page will showcase results from our experiments.
 
-### Overview of the experiments
+### 1 Overview of the experiments
 
 Our experiments considered the design of state that may affect the performance of the algorithm. There are two different state designs: 1)state1: 15 dimensions, including the 6-dimensional joint position and 9-dimensional gripper’s velocity, position, and rotation; 2) state2: 9 dimensions consisting of the gripper's velocity, position, and rotation.
 
-### Graphs
-time step vs cumulative reward for each experiment. The blue line is for agent with state1. the orange line is for agent with state2.
+### 2 Graphs
+#### 2.1 time step vs cumulative reward for each experiment. The blue line is for agent with state1. the orange line is for agent with state2.
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/Environment_Cumulative%20Reward.png)
 
-time step vs episode length.
+#### 2.2 time step vs episode length.
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/episode%20length.png)
 
-time step vs value loss
+#### 2.3 time step vs value loss
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/loss%20value%20loss.png)
 
-time step vs policy loss
+#### 2.4 time step vs policy loss
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/loss%20policy%20loss.png)
 
-time step vs policy entropy
+#### 2.5 time step vs policy entropy
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/loss%20value%20loss.png)
 
 
@@ -29,11 +29,11 @@ time step vs policy entropy
 ![]()
 
 
-### Videos
-The inference results for the trained agent with state1
+### 3 Videos
+#### 3.1 The inference results for the trained agent with state1
 <img src="https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/ppo_nr_e0.5_s1.gif" width="600" height="400" />
 
-The inference results for the trained agent with state2
+#### 3.2 The inference results for the trained agent with state2
 <img src="https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/ppo_nr_e0.5_s2.gif" width="600" height="400" />
 
 
