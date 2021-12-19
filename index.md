@@ -2,6 +2,9 @@
 
 ## Welcome to Our Project
 
+### Project Report
+This [documentation](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/533v_project_final_report.pdf) is the report of our project.
+
 This page will showcase results from our experiments.
 
 ### 1 Overview of the experiments
@@ -39,5 +42,4 @@ Our experiments considered the design of state that may affect the performance o
 <img src="https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/ppo_nr_e0.5_s2.gif" width="600" height="400" />
 
 
-### Project Report
-This [documentation](https://docs.github.com/categories/github-pages-basics/) is the report of our project.
+
