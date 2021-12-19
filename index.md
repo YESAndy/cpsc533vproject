@@ -25,10 +25,10 @@ Our experiments considered the design of state that may affect the performance o
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/loss%20value%20loss.png)
 
 #### 2.6 histogram of culumlative reward for the agent with state1
-![]()
+![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/culumlative%20reward%20hist_s1.png)
 
 #### 2.7 histogram of culumlative reward for the agent with state2
-![]()
+![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/culumlative%20reward%20hist_s2.png)
 
 
 ### 3 Videos
