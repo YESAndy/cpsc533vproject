@@ -39,6 +39,5 @@ Our experiments considered the design of state that may affect the performance o
 <img src="https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/ppo_nr_e0.5_s2.gif" width="600" height="400" />
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Report
+This [documentation](https://docs.github.com/categories/github-pages-basics/) is the report of our project.
