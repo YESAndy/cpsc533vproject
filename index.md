@@ -1,7 +1,5 @@
 ## Welcome to Our Project
 
-You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md)
-
 This page will showcase results from our experiments.
 
 ### 1 Overview of the experiments
