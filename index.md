@@ -24,8 +24,10 @@ Our experiments considered the design of state that may affect the performance o
 #### 2.5 time step vs policy entropy
 ![](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/loss%20value%20loss.png)
 
-
+#### 2.6 histogram of culumlative reward for the agent with state1
 ![]()
+
+#### 2.7 histogram of culumlative reward for the agent with state2
 ![]()
 
 
