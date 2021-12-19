@@ -3,7 +3,7 @@
 ## Welcome to Our Project
 
 ### Project Report
-This [documentation](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/533v_project_final_report.pdf) is the report of our project.
+[This](https://github.com/YESAndy/cpsc533vproject/blob/gh-pages/533v_project_final_report.pdf) is the report of our project.
 
 This page will showcase results from our experiments.
 
