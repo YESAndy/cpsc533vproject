@@ -1,6 +1,6 @@
 ## Welcome to Our Project
 
-You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.https://jekyllrb.com/docs/usage/
+You can use the [editor on GitHub](https://github.com/YESAndy/cpsc533vproject/edit/gh-pages/index.md)
 
 This page will showcase results from our experiments.
 
